@@ -1,0 +1,3 @@
+langchain_pinecone
+pinecone
+langchain_openai
